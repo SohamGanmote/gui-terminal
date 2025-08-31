@@ -71,9 +71,10 @@ Now, every time you SSH/login to your server, the navigator will start automatic
 
 ---
 
-## 📸 Showcase of the terminal UI
+## 📸 Demo
 
-![Demo GIF](./demo.mp4)
+Watch the demo video:  
+👉 [Demo Video (MP4)](./demo.mp4)
 
 ## 🤝 Contributing
 
@@ -84,3 +85,4 @@ Now, every time you SSH/login to your server, the navigator will start automatic
 - Open a Pull Request 🚀
 
 ---
+
