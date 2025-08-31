@@ -29,7 +29,7 @@ It helps me manage files on my home servers more easily.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/terminal-file-navigator.git
+git clone https://github.com/SohamGanmote/gui-terminal.git
 cd terminal-file-navigator
 ```
 
@@ -86,6 +86,7 @@ Now, every time you SSH/login to your server, the navigator will start automatic
 - Open a Pull Request 🚀
 
 ---
+
 
 
 
