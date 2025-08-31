@@ -74,11 +74,8 @@ Now, every time you SSH/login to your server, the navigator will start automatic
 ## 📸 Demo
 
 <p align="center">
-  <img src="./demo.gif" width="100%" />
+  <img src="./demo.gif" width="800" />
 </p>
-
-👉 [Watch full demo (MP4)](./demo.mp4)
-
 
 ## 🤝 Contributing
 
@@ -89,6 +86,7 @@ Now, every time you SSH/login to your server, the navigator will start automatic
 - Open a Pull Request 🚀
 
 ---
+
 
 
 
