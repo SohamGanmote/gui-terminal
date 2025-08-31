@@ -85,9 +85,6 @@ Now, every time you SSH/login to your server, the navigator will start automatic
 - Push to branch (`git push origin feature-new`)
 - Open a Pull Request 🚀
 
----
-
-
 
 
 
